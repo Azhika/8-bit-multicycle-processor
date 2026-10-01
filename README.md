@@ -49,7 +49,7 @@ program counter ->instruction rom->instruction register->instruction decoder->re
 
 ## Simulation Results
 
-![Vivado Simulation Waveform](docs/simulation_waveform.png)
+![Vivado Simulation Waveform](docs/simulation.png)
 
 
 
