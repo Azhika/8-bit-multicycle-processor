@@ -42,15 +42,13 @@ program counter ->instruction rom->instruction register->instruction decoder->re
 | `C` | ORI | Rd = Rd \| immediate | 2 bytes |
 | `D` | MOVI | Rd = immediate | 2 bytes |
 
-
 ## Processor Architecture
 
-![8-bit CPU Architecture](docs/architecture.png)
+![8-bit multicycle processor architecture](architecture.png)
 
 ## Simulation Results
 
-![Vivado Simulation Waveform](docs/simulation.png)
-
+![Processor simulation waveform](simulation.png)
 
 
 
