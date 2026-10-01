@@ -43,8 +43,7 @@ program counter ->instruction rom->instruction register->instruction decoder->re
 | `D` | MOVI | Rd = immediate | 2 bytes |
 
 ## Processor Architecture
-
-![8-bit multicycle processor architecture](architecture.png)
+![processor architecture waveform](8-bit-processor-architecture.png)
 
 ## Simulation Results
 
